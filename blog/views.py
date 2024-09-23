@@ -23,11 +23,12 @@ def post_detail(request, slug):
     :template:`blog/post_detail.html`
     """
 
-    queryset = Post.objects.filter(status=1)
+    queryset = Post.objects.filter(status=1) # Status 1 means published posts, The slug parameter gets the argument value from the URL pattern named 'post_detail'
     post = get_object_or_404(queryset, slug=slug)
 
     return render(
         request,
         "blog/post_detail.html",
-        {"post": post},
+        {"post": post}, # we could add "coder": "Denys Lytvynenko"
+        
     )
