@@ -1,6 +1,7 @@
 Link to the live site here: [Django-blog](https://dionismaximus-django-blog-04bd2d3c668d.herokuapp.com/)
+()
 
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+![website_screenshot](static/images/lighthouse_results.png)
 
 Welcome Denys Lytvynenko,
 
