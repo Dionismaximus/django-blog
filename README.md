@@ -1,8 +1,11 @@
 Link to the live site here: [Django-blog](https://dionismaximus-django-blog-04bd2d3c668d.herokuapp.com/)
-()
 
-![website_screenshot](static/images/lighthouse_results.png)
 
+![website_screenshot](https://ibb.co/Wp6178t)
+
+![website_screenshot1](https://i.ibb.co/yBXJKvS/django-blog.png)
+
+![website_screenshot2](https://ibb.co/Wp6178t)
 Welcome Denys Lytvynenko,
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
